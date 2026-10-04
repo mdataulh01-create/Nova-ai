@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "Full-stack native Android IDE & AI coding agent with multi-agent workflows, code editor, terminal, and shared storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
